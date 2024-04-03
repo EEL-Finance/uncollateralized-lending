@@ -1,7 +1,7 @@
-# ZKredit
-![ZKredit](https://github.com/Kirillr-Sibirski/uncollateralized-lending/blob/main/src/assets/ZKredit.png?raw=true)
+# UncLoan
 
-This project leverages the power of Sismo to verify borrowers' eligibility data on-chain, integrates Compound v3 protocol for loan functionalities, and utilizes the Push protocol for loan status notifications.
+This project leverages the power of Worldcoin to verify borrowers' eligibility data on-chain, integrates Compound v3 protocol for loan functionalities, and utilizes the Push protocol for loan status notifications.
+It was intially built for the ETHOnline 2023 [hackathon](https://ethglobal.com/showcase/zkredit-vw2kk). 
 
 ## Getting Started
 
